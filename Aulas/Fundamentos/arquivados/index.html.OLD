@@ -1,0 +1,11 @@
+<html>
+    <!-- CABEÇALHO / APENAS PARA O NAVEGADOR -->
+    <head>
+        <title> Minha primeira pagina</title>
+    </head>
+    <!--CORPO OU CONTEUDO VISÍVEL -->
+    <body>
+        alguma coisa...
+    </body>
+</html>
+<!-- Emmet -->
